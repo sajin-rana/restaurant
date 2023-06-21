@@ -1,3 +1,4 @@
+<div align='center'><h1>GERICHT 🍽️</h1></div>
 
 
 <h2>About the project</h2>
