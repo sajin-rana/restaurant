@@ -7,7 +7,7 @@
               resource for dining information, foods options, available tables, and 
               book tables for the guests. </p>
 
-👉 Live Demo: <a href=''>Live Demo</a>
+👉 Live Demo: <a href='https://gericht.sajin-rana.com/'>Live Demo</a>
 
 <h3>Build with:</h3>
 
